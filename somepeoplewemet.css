@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.video{
+    background-position: center;
+    padding: 0% 8%;
+    position: relative;
+}
+body{
+    background-color: #101010;
+    height: 0px;
+}
+.backbutton{
+    color: white;
+    margin-left: 50px;
+    font-size: 50px;
+    height: 0px;
+    width: 5px;
+}
